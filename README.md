@@ -8,7 +8,7 @@ This repository contains all codes and demonstrations of our project that was co
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/36446402/102006500-8e0b2700-3d47-11eb-9c18-9d77cd674f08.gif)
 
-## Get detailed attentionn graphs
+## Get detailed attention graphs
 
 ![img_shobit](readme_resources/shobit_attn.png)
 
