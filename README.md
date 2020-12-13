@@ -40,6 +40,8 @@ This is a demonstration on Google Meet
 
 ***Get detailed attention graphs***
 
+PS: Kindly view this graph on Github light theme.
+
 ![img_shobit](readme_resources/shobit_attn.png)
 
 ![img_unni](readme_resources/unni_attn.png)
