@@ -34,6 +34,8 @@ This projects calculates students' attention and emotions in an online class to 
 
 ***Demonstration***
 
+This is a demonstration on Google Meet
+
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/36446402/102006500-8e0b2700-3d47-11eb-9c18-9d77cd674f08.gif)
 
 ***Get detailed attention graphs***
