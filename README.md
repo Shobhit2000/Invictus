@@ -1,6 +1,6 @@
 # Invictus
 
-This repository contains all codes and demonstrations of our project that was completed during Hackoff 2020.
+This repository contains all codes and demonstrations of our project that was completed during HackOff v3.0 2020.
 
 ## Demonstration
 
